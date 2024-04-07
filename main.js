@@ -21,7 +21,7 @@ addBtn.onclick = function () {
     par.style.marginLeft = "10px";
     par.style.textAlign = "left";
     par.style.fontSize = "13px";
-    par.style.color = '#000'
+    par.style.color = '#fff'
     par.innerHTML = inputField.value;
 
     divTask.appendChild(unchecked);
